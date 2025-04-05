@@ -66,8 +66,8 @@ npm run build
 
 Make sure these files are in the root directory:
 
-- `LiberteRedmond.safetensors`
-- `IconsRedmond15V-Icons.safetensors`
+- `LiberteRedmond.safetensors` (Download from [HuggingFace - LiberteRedmond](https://huggingface.co/artificialguybr/Liberte/tree/main))
+- `IconsRedmond15V-Icons.safetensors` (Download from [CivitAI - IconsRedmond 1.5V](https://civitai.com/models/206191/iconsredmond-15v-app-icons-lora-for-sd-liberteredmond-sd-15))
 
 ---
 
