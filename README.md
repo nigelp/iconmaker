@@ -14,7 +14,7 @@ An MVP app to generate colorful app icons using Stable Diffusion with LoRA fine-
 
 ## Requirements
 - Python 3.8+
-- Node.js (for rebuilding frontend)
+- Node.js (for building frontend)
 - (Optionally) CUDA-capable GPU recommended for performance
 
 ---
@@ -23,15 +23,13 @@ An MVP app to generate colorful app icons using Stable Diffusion with LoRA fine-
 
 1. Clone this repository
 
-2. Setup Python virtual environment:
+2. Install Python dependencies:
 
 ```bash
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt  # (create this based on your env)
+pip install -r requirements.txt
 ```
 
-3. Install JS dependencies:
+3. Install JavaScript dependencies and build the React app:
 
 ```bash
 cd frontend
