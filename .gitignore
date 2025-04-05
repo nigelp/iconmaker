@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyInstaller
+/dist/
+/build/
+*.spec
+
+# React / Node
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model weights and large data
+*.safetensors
+*.ckpt
+*.pt
+
+# Environment
+*.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Misc
+*.bak
+*.tmp
