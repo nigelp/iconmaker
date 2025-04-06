@@ -1,3 +1,6 @@
+
+![cooliconmaker](https://github.com/user-attachments/assets/030e7180-30f7-4098-bab0-607f9c193dc6)
+
 # Simple Stable Diffusion Icon Generator
 
 An MVP app to generate colorful app icons using Stable Diffusion with LoRA fine-tuning.
