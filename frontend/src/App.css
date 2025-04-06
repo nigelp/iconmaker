@@ -36,3 +36,63 @@
     transform: rotate(360deg);
   }
 }
+
+.HeaderBar {
+  background-color: #007bff;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.HeaderBar h1 {
+  color: white;
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.content {
+  background-color: #f5f9ff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+input[type="text"] {
+  padding: 8px;
+  width: 90%;
+  max-width: 400px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+select, label {
+  margin: 6px;
+}
+
+.blue-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 12px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.blue-button:hover {
+  background-color: #0056b3;
+}
+
+.download-button {
+  margin-top: 10px;
+}
