@@ -3,7 +3,7 @@
 
 # Cool Icon Maker
 
-An MVP app to generate colorful app icons using Stable Diffusion with LoRA fine-tuning.
+An MVP app to generate colorful app icons locally on your computer using Stable Diffusion with LoRA fine-tuning. Options are - 512x512 or 64x64, 20 steps or 50 steps quality, JPEG or PNG.
 
 ---
 
